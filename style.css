@@ -553,6 +553,18 @@ span {
     width: 35%;
 }
 
+.skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span {
+    width: 95%;
+}
+
+.skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span {
+    width: 67%;
+}
+
+.skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
+    width: 60%;
+}
+
  {
     min-height: auto;
     padding-bottom: 7rem;
